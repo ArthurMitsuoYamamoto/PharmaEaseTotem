@@ -72,6 +72,9 @@ Aqui está a documentação dos endpoints da API para o projeto do totem farmac�
 
 
 
+
+
+
 ## Instrução de como rodar a aplicação
 1- Primeira coisa que precisamos fazer é clonar o repositório em sua máquina local.
 
