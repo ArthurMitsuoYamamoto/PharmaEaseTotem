@@ -1,9 +1,10 @@
-package br.com.ecohealthpro.totemapi.service;
+package br.com.pharmeeasetotem.totemapi.service;
 
-import br.com.ecohealthpro.totemapi.model.Carrinho;
-import br.com.ecohealthpro.totemapi.repository.CarrinhoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
+import br.com.pharmeeasetotem.totemapi.model.Carrinho;
+import br.com.pharmeeasetotem.totemapi.repository.CarrinhoRepository;
 
 @Service
 public class CarrinhoService {

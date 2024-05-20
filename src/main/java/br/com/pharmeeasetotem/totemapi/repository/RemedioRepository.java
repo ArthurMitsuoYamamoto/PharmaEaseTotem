@@ -1,6 +1,7 @@
-package br.com.ecohealthpro.totemapi.repository;
+package br.com.pharmeeasetotem.totemapi.repository;
 
-import br.com.ecohealthpro.totemapi.model.Remedio;
 import org.springframework.data.jpa.repository.JpaRepository;
+
+import br.com.pharmeeasetotem.totemapi.model.Remedio;
 
 public interface RemedioRepository extends JpaRepository<Remedio, Long> { }

@@ -1,8 +1,9 @@
-package br.com.ecohealthpro.totemapi.repository;
+package br.com.pharmeeasetotem.totemapi.repository;
 
-import br.com.ecohealthpro.totemapi.model.Cliente;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
+
+import br.com.pharmeeasetotem.totemapi.model.Cliente;
 
 @Repository
 public interface ClienteRepository extends JpaRepository<Cliente, String> { }

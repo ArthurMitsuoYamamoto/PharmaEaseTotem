@@ -1,4 +1,4 @@
-package br.com.ecohealthpro.totemapi.model;
+package br.com.pharmeeasetotem.totemapi.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

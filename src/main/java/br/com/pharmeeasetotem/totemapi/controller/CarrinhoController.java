@@ -1,19 +1,20 @@
-package br.com.ecohealthpro.totemapi.controller;
+package br.com.pharmeeasetotem.totemapi.controller;
 
-import br.com.ecohealthpro.totemapi.model.Carrinho;
-import br.com.ecohealthpro.totemapi.model.Cliente;
-import br.com.ecohealthpro.totemapi.model.Pedido;
-import br.com.ecohealthpro.totemapi.model.Remedio;
-import br.com.ecohealthpro.totemapi.record.FinalizarCarrinhoRequestRecord;
-import br.com.ecohealthpro.totemapi.service.CarrinhoService;
-import br.com.ecohealthpro.totemapi.service.ClienteService;
-import br.com.ecohealthpro.totemapi.service.PedidoService;
-import br.com.ecohealthpro.totemapi.service.RemedioService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+
+import br.com.pharmeeasetotem.totemapi.model.Carrinho;
+import br.com.pharmeeasetotem.totemapi.model.Cliente;
+import br.com.pharmeeasetotem.totemapi.model.Pedido;
+import br.com.pharmeeasetotem.totemapi.model.Remedio;
+import br.com.pharmeeasetotem.totemapi.record.FinalizarCarrinhoRequestRecord;
+import br.com.pharmeeasetotem.totemapi.service.CarrinhoService;
+import br.com.pharmeeasetotem.totemapi.service.ClienteService;
+import br.com.pharmeeasetotem.totemapi.service.PedidoService;
+import br.com.pharmeeasetotem.totemapi.service.RemedioService;
 
 import java.util.List;
 import java.util.Optional;

@@ -1,9 +1,10 @@
-package br.com.ecohealthpro.totemapi.service;
+package br.com.pharmeeasetotem.totemapi.service;
 
-import br.com.ecohealthpro.totemapi.model.Remedio;
-import br.com.ecohealthpro.totemapi.repository.RemedioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
+import br.com.pharmeeasetotem.totemapi.model.Remedio;
+import br.com.pharmeeasetotem.totemapi.repository.RemedioRepository;
 
 @Service
 public class RemedioService {

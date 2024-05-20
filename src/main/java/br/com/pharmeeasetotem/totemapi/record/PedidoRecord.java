@@ -1,4 +1,4 @@
-package br.com.ecohealthpro.totemapi.record;
+package br.com.pharmeeasetotem.totemapi.record;
 
 import jakarta.validation.constraints.NotBlank;
 
