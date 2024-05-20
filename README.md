@@ -22,7 +22,7 @@ Daniel dos Santos Araujo Faria -> rm99067 -> Responsabilidades Materias -> (MOBI
 - **Daniel dos Santos Araujo Faria**:
   - Desenvolvimento do backend para operações relacionadas ao 'Cliente' e 'Pedido'.
 - **Enzo Lafer Gallucci**:
-  - Desenvolvimento do backend para operações relacionadas 'Remedio').
+  - Desenvolvimento do backend para operações relacionadas 'Remedio'.
 - **Ramon Cezarino Lopez**:
   - Revisão de código.
 - **Arthur Mitsuo Yamamoto**:
