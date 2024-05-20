@@ -56,6 +56,22 @@ Daniel dos Santos Araujo Faria -> rm99067 -> Responsabilidades Materias -> (MOBI
 
 ---
 
+Aqui está a documentação dos endpoints da API para o projeto do totem farmacêutico de autoatendimento:
+
+# Totem Farmacêutico de Autoatendimento - API
+
+## Tarefas
+
+- [ ] CRUD de Clientes
+- [ ] CRUD de Compras
+- [ ] CRUD de Medicamentos
+
+
+## Documentação da API
+
+
+
+
 ## Instrução de como rodar a aplicação
 1- Primeira coisa que precisamos fazer é clonar o repositório em sua máquina local.
 
