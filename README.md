@@ -127,3 +127,7 @@ Solução: Após a compra, o totem solicita ao cliente que informe o sintoma tra
 3- Conexão com banco de dados (SQL)
 
 4- Aprimoramento do código num geral
+
+
+### Diagrama:
+
