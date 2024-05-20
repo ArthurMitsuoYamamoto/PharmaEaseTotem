@@ -119,4 +119,13 @@ Problema: Farmácias muitas vezes não coletam feedback suficiente sobre a efic�
 
 Solução: Após a compra, o totem solicita ao cliente que informe o sintoma tratado e avalie a satisfação com o produto de 0 a 5 estrelas. Este feedback é coletado antes da geração da senha para retirada do medicamento no balcão, proporcionando dados valiosos para a farmácia melhorar seus serviços e produtos
 
+### Evolução em comparação a entrega da Sprint anterior:
+1- Evoluímos mais a fundo a ideia, corrijimos e alteramos muitas classes que após uma longa discussão, chegamos ao consenso de serem inúteis.
+
+2- Agora possui uma documentação online (Swagger-UI)
+
+3- Conexão com banco de dados (SQL)
+
+4- Aprimoramento do código num geral
+
 
