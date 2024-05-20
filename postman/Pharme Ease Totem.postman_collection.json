@@ -1,0 +1,39 @@
+{
+	"info": {
+		"_postman_id": "66efe639-d7dd-4917-9a7c-75f938f7b00d",
+		"name": "Pharme Ease Totem",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "19411892"
+	},
+	"item": [
+		{
+			"name": "Fazer pedido",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"cpf\": \"45027270836\",\r\n    \"pedidos\": [\r\n        {\r\n            \"remedioId\": 4,\r\n            \"quantidade\": 3\r\n        },\r\n        {\r\n            \"remedioId\": 7,\r\n            \"quantidade\": 6\r\n        }\r\n    ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/carrinho/finalizar-carrinho",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"carrinho",
+						"finalizar-carrinho"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

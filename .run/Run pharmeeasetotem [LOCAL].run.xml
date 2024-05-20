@@ -1,0 +1,14 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run pharmeeasetotem [LOCAL]" type="Application" factoryName="Application">
+    <envs>
+      <env name="DB_PASSWORD" value="admin" />
+      <env name="DB_URL" value="jdbc:mysql://localhost:3306/pharmeeasetotem" />
+      <env name="DB_USERNAME" value="root" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="br.com.pharmeeasetotem.totemapi.TotemApiApplication" />
+    <module name="totem-api" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
