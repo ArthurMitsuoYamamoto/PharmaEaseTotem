@@ -122,7 +122,7 @@ Solução: Após a compra, o totem solicita ao cliente que informe o sintoma tra
 ### Evolução em comparação a entrega da Sprint anterior:
 1- Evoluímos mais a fundo a ideia, corrijimos, alteramos e criamos algumas classes que após uma longa discussão, chegamos ao consenso de serem inúteis.
 
-2- Agora possui uma documentação online (Swagger-UI) --> http://localhost:8080/swagger-ui/index.html
+2- Agora possui uma documentação online (Swagger-UI), para  --> http://localhost:8080/swagger-ui/index.html
 
 3- Conexão com banco de dados (SQL)
 
