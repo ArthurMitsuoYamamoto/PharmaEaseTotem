@@ -87,4 +87,29 @@ https://www.youtube.com/watch?v=Wf4Wggnx59g
 ## Público-Alvo:
 O público-alvo são clientes de farmácias que buscam conveniência, recomendações de medicamentos e uma experiência tecnologicamente avançada usando IA através de um totem farmacêutico de autoatendimento.
 
+## Problemas que a aplicação se propõe a solucionar:
+
+A proposta de um totem farmacêutico de autoatendimento visa abordar várias questões comuns encontradas em farmácias tradicionais, melhorando a experiência do cliente e otimizando o processo de compra de medicamentos. A seguir, são detalhados os principais problemas que esta solução pretende solucionar:
+
+Fila e Tempo de Espera Longos:
+
+Problema: Clientes frequentemente enfrentam filas longas e tempos de espera elevados para obter atendimento nas farmácias.
+Solução: O totem automatiza parte do processo de compra, permitindo que os clientes selecionem medicamentos e recebam sugestões personalizadas antes de chegarem ao balcão, reduzindo significativamente o tempo de espera.
+Falta de Personalização nas Recomendações:
+
+Problema: As recomendações de medicamentos são geralmente baseadas em interações rápidas e sem um histórico detalhado do cliente, o que pode resultar em sugestões genéricas.
+Solução: Utilizando inteligência artificial, o totem oferece sugestões de medicamentos baseadas nas compras anteriores do cliente e nos sintomas informados, proporcionando uma experiência mais personalizada e assertiva.
+Dificuldade em Encontrar Medicamentos Específicos:
+
+Problema: Clientes muitas vezes têm dificuldade em localizar medicamentos específicos nas prateleiras, necessitando da ajuda de um atendente.
+Solução: O totem informa diretamente ao cliente onde encontrar os medicamentos desejados nas prateleiras, facilitando o processo de compra sem a necessidade de intervenção de um atendente.
+Ineficiência no Atendimento no Balcão:
+
+Problema: O processo de atendimento no balcão pode ser lento, especialmente quando os atendentes precisam iniciar o processo de assistência do zero.
+Solução: O totem gera uma senha para o recepcionista do balcão e envia as informações selecionadas pelo usuário para uma dashboard, permitindo que o atendente já saiba os medicamentos escolhidos pelo cliente antes mesmo de atendê-lo, otimizando a eficiência do atendimento.
+Falta de Feedback dos Clientes:
+
+Problema: Farmácias muitas vezes não coletam feedback suficiente sobre a eficácia dos medicamentos e a satisfação dos clientes.
+Solução: Após a compra, o totem solicita ao cliente que informe o sintoma tratado e avalie a satisfação com o produto de 0 a 5 estrelas. Este feedback é coletado antes da geração da senha para retirada do medicamento no balcão, proporcionando dados valiosos para a farmácia melhorar seus serviços e produtos
+
 
