@@ -131,3 +131,6 @@ Solução: Após a compra, o totem solicita ao cliente que informe o sintoma tra
 
 ### Diagrama:
 
+link para baixar imagem do diagrama:
+https://www.mediafire.com/file/34jpnvi9gz038g3/Diagrama_sem_nome.drawio.png/file
+
